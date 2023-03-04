@@ -1,5 +1,5 @@
 
-public class DoesNotContain {
+public class DoesNotContain { 
     /**
      * The inverse of the contains value challenge: check if the array does *not* contain the value.
      * You should think critically about the logic that you write within the for loop.
